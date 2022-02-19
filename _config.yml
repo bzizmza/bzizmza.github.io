@@ -5,8 +5,8 @@ description         : >-
                       use tabs over spaces
                       and never broke production.
 baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+repository          : bzizmza/bzizmza.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : bzizmza/bzizmza.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -25,24 +25,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  name              : Abimanyu Sri Setyo
+  image             : /_data/bima.jpg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : abimanyusrisetyo@gmail.com
+# facebook          : your_username
+  github            : bzizmza
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : abimanyusrisetyo
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : bzizmza
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
