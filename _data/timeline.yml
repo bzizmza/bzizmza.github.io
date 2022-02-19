@@ -1,17 +1,12 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Data Analyst Scholarship - Generasi GIGIH 2.0
+  from: 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: An exclusive academy led by Yayasan Anak Bangsa Bisa and GoTo Group (Gojek & Tokopedia). 
+               Designed to prepare students with in-demand skills and tech certifications, 
+               the new Generasi GIGIH curriculum offers 3 interdisciplinary learning paths - Backend Engineer, Frontend Engineer, and Data Analyst.
+
+- title: Computer Engineering Student, Brawijaya University
+  from: 2019
+  to: present
+  description: Learn about Computational Mathematics, Statistics, Advanced Programming, 
+               Pattern Recognition, and Computer Systems Engineering.
