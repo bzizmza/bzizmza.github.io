@@ -1,11 +1,15 @@
 ### Site Settings ###
 title               : Bima's Sites!
 description         : >-
-                      I am a computer engineering student 
-                      and I am interested in Big Data, 
-                      Artificial Intelligence and Machine Learning. 
-                      I'm currently focused on learning more 
-                      about Data Science.
+                      Computer Engineering Student 
+                      at Brawijaya University, in Indonesia. 
+                      Interested in Big Data, Artificial Intelligence 
+                      and Machine Learning. Currently focused 
+                      on learning more about Data Science. 
+                      Excellent understanding and proficiency of platform 
+                      for effective data analyses, including SQL, Sheets, 
+                      Excel, Tableau, and Strong communication, 
+                      organizational, and analytical skills.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bzizmza/bzizmza.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -35,7 +39,7 @@ author:
 # facebook          : your_username
   github            : bzizmza
 # gitlab            : your_username
-# instagram         : your_username
+  instagram         : bzizmza
 # kaggle            : your_username
   linkedin          : abimanyusrisetyo
 # medium            : your_username
