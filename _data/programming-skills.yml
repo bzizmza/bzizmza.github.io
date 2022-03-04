@@ -1,19 +1,15 @@
-- name: Python
-  percentage: 70
+- name: SQL
+  percentage: 90
   color: danger
 
-- name: C++
-  percentage: 60
+- name: Python
+  percentage: 80
   color:
 
-- name: SQL
+- name: C++
   percentage: 70
   color:
 
 - name: R
-  percentage: 50
-  color: secondary
-
-- name: SQL
-  percentage: 50
+  percentage: 70
   color: secondary
