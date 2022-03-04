@@ -95,3 +95,8 @@ keybase:
   url   : https://www.keybase.io/
   icon  : fab fa-keybase
   color : 66ccff
+ 
+hackerrank:
+  url   : https://www.hackerrank.com/
+  icon  : fab fa-hackerrank
+  color : 00ab6c
