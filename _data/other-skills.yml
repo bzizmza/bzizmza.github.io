@@ -1,7 +1,15 @@
+- name: Excel
+  percentage: 90
+  color: success
+  
+- name: Tableau
+  percentage: 80
+  color: success
+  
 - name: Matlab
   percentage: 70
   color: info
 
-- name: Tableau
-  percentage: 60
-  color: success
+- name: RStudio
+  percentage: 70
+  color: info
